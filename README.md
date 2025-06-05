@@ -8,13 +8,6 @@ Digital Market Hub is an open-source project designed to provide a platform for 
 - Categorized services for better organization.
 - Easy-to-edit data files for customization.
 
-## How to Use
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/DigitalMarketHub.git
-   ```
-2. Open the `index.html` file in your browser to view the project.
-
 ## How to Edit Data
 All data is stored in the `data` folder in JSON format. You can edit the following files to customize the content:
 
